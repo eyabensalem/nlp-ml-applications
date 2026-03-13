@@ -502,19 +502,6 @@ Ce projet permet de travailler les notions suivantes :
 
 ---
 
-## 💡 Cas d’usage pédagogiques
-
-Ce projet peut être utilisé pour :
-
-* un projet académique en **NLP**
-* une démonstration de compétences en **data science**
-* un portfolio GitHub
-* une présentation de concepts NLP à des étudiants
-* une base pour développer des applications NLP plus avancées
-* un support interactif pour apprendre les représentations vectorielles et les modèles de langage
-
----
-
 ## 🚀 Améliorations possibles
 
 Quelques pistes d’évolution :
